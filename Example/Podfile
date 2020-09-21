@@ -1,5 +1,7 @@
 use_frameworks!
 
+source 'https://github.com/GitWangKai/PriviteRepo.git'
+
 platform :ios, '8.0'
 
 target 'PHDemo_Example' do

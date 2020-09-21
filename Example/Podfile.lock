@@ -1,0 +1,16 @@
+PODS:
+  - PHDemo (0.1.0)
+
+DEPENDENCIES:
+  - PHDemo (from `../`)
+
+EXTERNAL SOURCES:
+  PHDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PHDemo: 0d0d697be767bc572c2fda498833aa60d36b211e
+
+PODFILE CHECKSUM: fd4403842cc37dce958b554080a0dae700dec426
+
+COCOAPODS: 1.9.3

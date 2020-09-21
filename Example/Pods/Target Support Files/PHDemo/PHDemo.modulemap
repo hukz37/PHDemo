@@ -1,0 +1,6 @@
+framework module PHDemo {
+  umbrella header "PHDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
