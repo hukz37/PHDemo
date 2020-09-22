@@ -10,7 +10,7 @@
 @implementation PHTestLog
 
 - (void)testLog{
-    NSLog(@"当前的版本是0.1.0");
+    NSLog(@"当前的版本是0.1.1");
 }
 
 @end
